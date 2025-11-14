@@ -15,6 +15,7 @@
 
 void app_main(void)
 {
+    printf("Hello world!\n");  
     printf("Hello world! This is Cherry's first app\n");
 
     /* Print chip information */
